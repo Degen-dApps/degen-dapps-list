@@ -7,7 +7,7 @@ const routes = [
 		name: 'Home',
 		component: Home,
 		meta: {
-			title: 'Degen Dapps List - Directory of projects on Degen Chain',
+			title: 'DegenDapps.lol - List of projects on Degen Chain',
 		},
 	},
 	{
