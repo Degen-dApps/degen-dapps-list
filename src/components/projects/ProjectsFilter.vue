@@ -15,7 +15,8 @@ export default {
 				'Identity',
 				'Launchpad',
 				'NFT',
-				'Send tokens'
+				'Send tokens',
+				'Yield farming',
 			],
 		},
 	},

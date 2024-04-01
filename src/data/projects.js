@@ -86,6 +86,13 @@ const projects = [
 		img: require('@/assets/images/projects/send2name.png'),
 		url: 'https://send2.name'
 	},
+	{
+		id: 0,
+		title: 'FrogSwap',
+		category: 'DEX & Yield farming',
+		img: require('@/assets/images/projects/frog-swap.png'),
+		url: 'https://frogswap.xyz/'
+	},
 ];
 
 export default projects;
