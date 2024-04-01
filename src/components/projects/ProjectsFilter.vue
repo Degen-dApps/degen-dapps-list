@@ -9,13 +9,13 @@ export default {
 		selectOptions: {
 			type: Array,
 			default: () => [
-				'DEX',
 				'Bridge',
-				'NFT',
-				'Launchpad',
-				'Send tokens',
+				'DEX',
+				'Gaming',
 				'Identity',
-				'Gaming'
+				'Launchpad',
+				'NFT',
+				'Send tokens'
 			],
 		},
 	},

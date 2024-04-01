@@ -39,10 +39,10 @@ const projects = [
 	},
 	{
 		id: 0,
-		title: 'Send2name',
-		category: 'Send tokens',
-		img: require('@/assets/images/projects/send2name.png'),
-		url: 'https://send2.name'
+		title: 'DegenName.lol',
+		category: 'Identity',
+		img: require('@/assets/images/projects/degen-name.png'),
+		url: 'https://degenname.lol'
 	},
 	{
 		id: 0,
@@ -78,6 +78,13 @@ const projects = [
 		category: 'DEX',
 		img: require('@/assets/images/projects/dyorswap.png'),
 		url: 'https://dyorswap.finance/swap/?chainId=666666666'
+	},
+	{
+		id: 0,
+		title: 'Send2name',
+		category: 'Send tokens',
+		img: require('@/assets/images/projects/send2name.png'),
+		url: 'https://send2.name'
 	},
 ];
 
