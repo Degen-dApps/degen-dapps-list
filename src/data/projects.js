@@ -93,6 +93,20 @@ const projects = [
 		img: require('@/assets/images/projects/frog-swap.png'),
 		url: 'https://frogswap.xyz/'
 	},
+	{
+		id: 0,
+		title: 'Cielo',
+		category: 'Analytics',
+		img: require('@/assets/images/projects/cielo.png'),
+		url: 'https://cielo.finance/'
+	},
+	{
+		id: 0,
+		title: 'Revoke Cash',
+		category: 'Security',
+		img: require('@/assets/images/projects/revoke-cash.png'),
+		url: 'https://revoke.cash/'
+	},
 ];
 
 export default projects;
