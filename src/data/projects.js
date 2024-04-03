@@ -107,6 +107,13 @@ const projects = [
 		img: require('@/assets/images/projects/revoke-cash.png'),
 		url: 'https://revoke.cash/'
 	},
+	{
+		id: 0,
+		title: 'Relay',
+		category: 'Bridge',
+		img: require('@/assets/images/projects/relay.png'),
+		url: 'https://relay.link/bridge/degen/?fromChainId=8453&currency=degen'
+	},
 ];
 
 export default projects;
