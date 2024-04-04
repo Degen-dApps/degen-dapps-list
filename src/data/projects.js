@@ -12,7 +12,7 @@ const projects = [
 		id: 0,
 		title: 'NFTdegen.lol',
 		category: 'NFT Launchpad & Marketplace',
-		img: require('@/assets/images/projects/nft-degen.png'),
+		img: require('@/assets/images/projects/nft-degen-2.png'),
 		url: 'https://nftdegen.lol'
 	},
 	{
@@ -113,6 +113,34 @@ const projects = [
 		category: 'Bridge',
 		img: require('@/assets/images/projects/relay.png'),
 		url: 'https://relay.link/bridge/degen/?fromChainId=8453&currency=degen'
+	},
+	{
+		id: 0,
+		title: 'Onchain Blocks',
+		category: 'Gaming',
+		img: require('@/assets/images/projects/onchain-blocks.png'),
+		url: 'https://warpcast.com/~/channel/onchain-blocks'
+	},
+	{
+		id: 0,
+		title: 'Berry',
+		category: 'Alerts & Analytics',
+		img: require('@/assets/images/projects/berry.png'),
+		url: 'https://berrylab.xyz/'
+	},
+	{
+		id: 0,
+		title: 'Kibo Trade',
+		category: 'Perpetuals',
+		img: require('@/assets/images/projects/kibo-trade.png'),
+		url: 'https://kibotrade.io/ '
+	},
+	{
+		id: 0,
+		title: 'Safu Frog',
+		category: 'Token Launchpad',
+		img: require('@/assets/images/projects/safu-frog.png'),
+		url: 'https://safufrog.com/'
 	},
 ];
 
