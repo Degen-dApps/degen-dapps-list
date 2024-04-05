@@ -142,6 +142,13 @@ const projects = [
 		img: require('@/assets/images/projects/safu-frog.png'),
 		url: 'https://safufrog.com/'
 	},
+	{
+		id: 0,
+		title: 'Payflow',
+		category: 'Send tokens',
+		img: require('@/assets/images/projects/payflow.png'),
+		url: 'https://payflow.me/'
+	},
 ];
 
 export default projects;
