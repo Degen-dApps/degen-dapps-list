@@ -10,6 +10,7 @@ export default {
 			type: Array,
 			default: () => [
 				'Analytics',
+				'Bounties',
 				'Bridge',
 				'DEX',
 				'Gaming',

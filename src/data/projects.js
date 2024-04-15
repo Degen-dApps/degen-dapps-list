@@ -149,6 +149,13 @@ const projects = [
 		img: require('@/assets/images/projects/payflow.png'),
 		url: 'https://payflow.me/'
 	},
+	{
+		id: 0,
+		title: 'Poidh',
+		category: 'Bounties',
+		img: require('@/assets/images/projects/poidh.png'),
+		url: 'https://degen.poidh.xyz/'
+	},
 ];
 
 export default projects;
