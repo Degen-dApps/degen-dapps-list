@@ -156,6 +156,41 @@ const projects = [
 		img: require('@/assets/images/projects/poidh.png'),
 		url: 'https://degen.poidh.xyz/'
 	},
+	{
+		id: 0,
+		title: 'DegenLink',
+		category: 'Send tokens',
+		img: require('@/assets/images/projects/degenlink.png'),
+		url: 'https://www.degenlink.io/'
+	},
+	{
+		id: 0,
+		title: 'Rabby',
+		category: 'Wallet',
+		img: require('@/assets/images/projects/rabby.png'),
+		url: 'https://rabby.io/'
+	},
+	{
+		id: 0,
+		title: 'Rainbow',
+		category: 'Wallet',
+		img: require('@/assets/images/projects/rainbow.png'),
+		url: 'https://rainbow.me/'
+	},
+	{
+		id: 0,
+		title: 'Starta',
+		category: 'Bridge',
+		img: require('@/assets/images/projects/starta.png'),
+		url: 'https://degen.starta.exchange/'
+	},
+	{
+		id: 0,
+		title: 'Zerion',
+		category: 'Wallet & Portfolio Tracker',
+		img: require('@/assets/images/projects/zerion.png'),
+		url: 'https://zerion.io/'
+	},
 ];
 
 export default projects;

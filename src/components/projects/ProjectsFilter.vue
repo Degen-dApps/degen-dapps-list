@@ -20,6 +20,7 @@ export default {
 				'Perpetuals',
 				'Security',
 				'Send tokens',
+				'Wallet',
 				'Yield farming',
 			],
 		},
