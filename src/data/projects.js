@@ -198,6 +198,13 @@ const projects = [
 		img: require('@/assets/images/projects/gas-zip.png'),
 		url: 'https://www.gas.zip/'
 	},
+	{
+		id: 0,
+		title: 'Degen Jeeves',
+		category: 'Superapp',
+		img: require('@/assets/images/projects/jeeves.png'),
+		url: 'https://app.degenjeeves.com/'
+	},
 ];
 
 export default projects;
