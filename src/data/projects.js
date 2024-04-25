@@ -191,6 +191,13 @@ const projects = [
 		img: require('@/assets/images/projects/zerion.png'),
 		url: 'https://zerion.io/'
 	},
+	{
+		id: 0,
+		title: 'Gas.zip',
+		category: 'On-ramp Gas Bridge',
+		img: require('@/assets/images/projects/gas-zip.png'),
+		url: 'https://www.gas.zip/'
+	},
 ];
 
 export default projects;
