@@ -205,6 +205,27 @@ const projects = [
 		img: require('@/assets/images/projects/jeeves.png'),
 		url: 'https://app.degenjeeves.com/'
 	},
+	{
+		id: 0,
+		title: 'Superfluid',
+		category: 'Send tokens',
+		img: require('@/assets/images/projects/superfluid.png'),
+		url: 'https://app.superfluid.finance/'
+	},
+	{
+		id: 0,
+		title: 'Button Game',
+		category: 'Gaming',
+		img: require('@/assets/images/projects/button-game.png'),
+		url: 'https://buttongame.xyz/'
+	},
+	{
+		id: 0,
+		title: 'The Portal',
+		category: 'Gaming',
+		img: require('@/assets/images/projects/portal.png'),
+		url: 'https://portal.robotandkid.com/'
+	},
 ];
 
 export default projects;
