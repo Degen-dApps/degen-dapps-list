@@ -221,6 +221,13 @@ const projects = [
 	},
 	{
 		id: 0,
+		title: 'Proxyswap',
+		category: 'DEX',
+		img: require('@/assets/images/projects/proxyswap.png'),
+		url: 'https://www.proxyswap.tips/'
+	},
+	{
+		id: 0,
 		title: 'The Portal',
 		category: 'Gaming',
 		img: require('@/assets/images/projects/portal.png'),
