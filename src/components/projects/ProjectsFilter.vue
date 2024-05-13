@@ -14,6 +14,7 @@ export default {
 				'Bridge',
 				'DEX',
 				'Gaming',
+				'Governance',
 				'Identity',
 				'Launchpad',
 				'NFT',

@@ -233,6 +233,13 @@ const projects = [
 		img: require('@/assets/images/projects/portal.png'),
 		url: 'https://portal.robotandkid.com/'
 	},
+	{
+		id: 0,
+		title: 'Farcaster.vote',
+		category: 'Governance',
+		img: require('@/assets/images/projects/farcaster-vote.png'),
+		url: 'https://farcaster.vote/'
+	},
 ];
 
 export default projects;
