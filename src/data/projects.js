@@ -154,7 +154,7 @@ const projects = [
 		title: 'Poidh',
 		category: 'Bounties',
 		img: require('@/assets/images/projects/poidh.png'),
-		url: 'https://degen.poidh.xyz/'
+		url: 'https://poidh.xyz/degen'
 	},
 	{
 		id: 0,
