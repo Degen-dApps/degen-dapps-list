@@ -17,6 +17,13 @@ const projects = [
 	},
 	{
 		id: 0,
+		title: 'DegenRadio.lol',
+		category: 'Stream Music NFTs',
+		img: require('@/assets/images/projects/degen-radio.png'),
+		url: 'https://degenradio.lol'
+	},
+	{
+		id: 0,
 		title: 'DegenSwap',
 		category: 'DEX',
 		img: require('@/assets/images/projects/degenswap.png'),
@@ -28,14 +35,6 @@ const projects = [
 		category: 'NFT & Token Launchpad',
 		img: require('@/assets/images/projects/mint-club.png'),
 		url: 'https://mint.club'
-	},
-	
-	{
-		id: 0,
-		title: 'GeckoTerminal',
-		category: 'DEX tracker',
-		img: require('@/assets/images/projects/gecko.png'),
-		url: 'https://www.geckoterminal.com/degenchain/pools'
 	},
 	{
 		id: 0,
@@ -60,13 +59,6 @@ const projects = [
 	},
 	{
 		id: 0,
-		title: 'DEX Screener',
-		category: 'DEX tracker',
-		img: require('@/assets/images/projects/dexscreener.png'),
-		url: 'https://dexscreener.com/degenchain'
-	},
-	{
-		id: 0,
 		title: 'NFTs2me',
 		category: 'NFT Launchpad',
 		img: require('@/assets/images/projects/nfts2me.png'),
@@ -85,13 +77,6 @@ const projects = [
 		category: 'Send tokens',
 		img: require('@/assets/images/projects/send2name.png'),
 		url: 'https://send2.name'
-	},
-	{
-		id: 0,
-		title: 'FrogSwap',
-		category: 'DEX & Yield farming',
-		img: require('@/assets/images/projects/frog-swap.png'),
-		url: 'https://frogswap.xyz/'
 	},
 	{
 		id: 0,

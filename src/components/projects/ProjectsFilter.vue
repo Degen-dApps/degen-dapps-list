@@ -17,6 +17,7 @@ export default {
 				'Governance',
 				'Identity',
 				'Launchpad',
+				'Music',
 				'NFT',
 				'Perpetuals',
 				'Security',
