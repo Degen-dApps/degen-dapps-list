@@ -225,6 +225,13 @@ const projects = [
 		img: require('@/assets/images/projects/farcaster-vote.png'),
 		url: 'https://farcaster.vote/'
 	},
+	{
+		id: 0,
+		title: 'Jeeves NFT Marketplace',
+		category: 'NFT Marketplace',
+		img: require('@/assets/images/projects/jeeves-market.png'),
+		url: 'https://jeeves.market/'
+	},
 ];
 
 export default projects;
